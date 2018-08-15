@@ -7,7 +7,7 @@ class BotCollection extends React.Component {
   render() {
     return (
       <div className="ui four column grid">
-        <h2>Collection of All Bots</h2>
+        <h2>Available Bots to Enlist</h2>
 
         <div className="row">
           {this.props.bots.map(bot => {
