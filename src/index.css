@@ -5,5 +5,9 @@ body {
 }
 
 .text-wrap {
-	word-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.top-margin {
+  margin-top: 25px;
 }
