@@ -6,7 +6,7 @@ import BotSpecs from "../components/BotSpecs";
 class BotsPage extends React.Component {
   state = {
     allBots: [],
-    filteredBots: [],
+
     userBots: [],
     specBot: null,
     showSpecs: false
